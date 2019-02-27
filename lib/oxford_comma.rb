@@ -10,5 +10,3 @@ def oxford_comma(array)
     string += temp
   end
 end
-
-puts oxford_comma(["Bob", "Tom", "Mike", "Casey"])
