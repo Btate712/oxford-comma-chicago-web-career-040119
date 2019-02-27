@@ -11,4 +11,4 @@ def oxford_comma(array)
   end
 end
 
-oxford_comma(["Bob", "Tom", "Mike", "Casey"])
+puts oxford_comma(["Bob", "Tom", "Mike", "Casey"])
